@@ -3,7 +3,7 @@
 Projeto exclusivamente de automação de testes de API.
 
 ## Stack
-- Java 17
+- Java 21
 - Maven
 - Rest Assured
 - JUnit 5
@@ -42,6 +42,7 @@ mvn clean test -DbaseUrl=https://serverest.dev
 ```
 
 ## Próximas evoluções
+- criação de cenários para API Users
 - autenticação/token
 - DTOs de request/response separados
 - testes parametrizados
