@@ -1,0 +1,7 @@
+base\BaseTest.class
+data\UserData.class
+config\ApiConfig.class
+config\ApiSpecification.class
+data\UserDataFactory.class
+utils\ResponseUtils.class
+requests\UsersRequest.class

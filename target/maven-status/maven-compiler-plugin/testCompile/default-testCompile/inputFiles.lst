@@ -1,0 +1,8 @@
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\base\BaseTest.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\config\ApiConfig.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\config\ApiSpecification.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\data\UserData.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\data\UserDataFactory.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\requests\UsersRequest.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\tests\users\UsersTest.java
+D:\Projetos\rest-assured-api-automation-professional\src\test\java\utils\ResponseUtils.java
